@@ -15,3 +15,7 @@ Answer 3: By using the git diff to check the difference between the working dire
 Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Answer 4: When I want to have separate files for separate languages or for separate audiences. Branches will help be create separate files for each language or audience.
+
+Question 5: How do the diagrams help you visualize the branch structure?
+
+Answer 5: You are able to see how everything is related and who the parents are for each of the branches you've created.
