@@ -23,3 +23,7 @@ Answer 5: You are able to see how everything is related and who the parents are 
 Question 6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Answer 6: By merging two branches together I can keep track of all changes and commits for each branch, while only having one to work on going forward. Representing it in the diagram the way we did is to ensure we know where the parents are.
+
+Question 7: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Answer 7: Automatic merging takes automates a process that could be very time consuming, but has limitations when the differences between the two branches are too different to tell which is the real change.
