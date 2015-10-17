@@ -1,0 +1,9 @@
+Lesson 2 Reflections
+
+Question 1: What happens when you initialize a repository? Why do you need to do it?
+
+Answer 2: Initializing a repository prepares it to begin tracking changes and commits. I need it so that I can keep track of my changes and updates.
+
+Question 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer 2: The staging area is the area between the working directory and the repository it provides a way for you to group files together in one group before adding them to the repository.
