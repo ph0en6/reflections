@@ -1,0 +1,30 @@
+Lesson 1 Reflections
+
+Question 1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Answer 1: By viewing the diff between two version I could see what had changed. Deductive reasoning tells me that if the first file was working fine and the second file was not working fine, then whatever changed is the cause of the problem. The difficult task was determining where the problem was first seen.
+
+Question 2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer 2: First I can always go back to see what changes I've made and any notes I've added that expalin why I did what I did. I can also go back in the code of other programmers to see what they did and potentially learn from them.
+
+Question 3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer 3: Manually choosing when to create a commit can help me have more control over what is included in the commits, but on the other hand it opens me up to user error by not saving enough or saving too much.
+
+Question 4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treate each file separately?
+
+Answer 4: Because many times the files are dependent on each other, and that dependency requires the files be saved together to ensure changes to each are captured.
+
+Question 5: How can you use the commands git log and git diff to view the history of files.
+
+Answer 5: The git log command allows me to see all of the commits in a repository and then I can compare the commits with each other by using the command git diff to see the differences.
+
+Question 6: How might using version control make you more confident to make changes that could break something?
+
+Answer 6: If I know that version control is enabled on a repository, I can feel free to make drastic changes because I know that if necessary I can always roll back.
+
+Question 7: Now that you have your workspace set up, what do you want to try using Git for? 
+
+Answer 7: I don't quite have an answer for that question yet.
+
