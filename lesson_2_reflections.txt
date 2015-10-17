@@ -19,3 +19,7 @@ Answer 4: When I want to have separate files for separate languages or for separ
 Question 5: How do the diagrams help you visualize the branch structure?
 
 Answer 5: You are able to see how everything is related and who the parents are for each of the branches you've created.
+
+Question 6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Answer 6: By merging two branches together I can keep track of all changes and commits for each branch, while only having one to work on going forward. Representing it in the diagram the way we did is to ensure we know where the parents are.
