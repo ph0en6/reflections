@@ -11,3 +11,7 @@ Answer 2: The staging area is the area between the working directory and the rep
 Question 3: How can you use the staging area to make sure you have one commit per logical change?
 
 Answer 3: By using the git diff to check the difference between the working directory and the staging area before commiting the files to the repository.
+
+Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Answer 4: When I want to have separate files for separate languages or for separate audiences. Branches will help be create separate files for each language or audience.
