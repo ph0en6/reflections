@@ -24,3 +24,7 @@ Question 5: How would you collaborate without using Git or GitHub? What would be
 
 Answer 5: I could use email, but I would not be able to do versioning and I would not be able to easily share changes. Plus there would be no central repository where everything could reside.
 
+Question 6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Answer 6: I would make changes in different branches if I’m working on things or sections of a project separately or wanted to assist someone in something they are doing on a separate branch.
+
